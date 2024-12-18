@@ -1,4 +1,4 @@
-<h2 align="center">Hola 👋! Mi nombre es Juan y soy un estudiante de Ingeniería en Software, y soy de Quito, Ecuador 🇪🇨</h2>
+<h2 align="center">Hola 👋! Mi nombre es Juan y soy un estudiante de Ingeniería en Software</h2>
 
 ###
 
